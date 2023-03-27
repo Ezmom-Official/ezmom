@@ -67,4 +67,5 @@ li a {
 
 li a:hover {
   background-color: #f4afb4;
+	font-color: #e78b73 !important;
 }
