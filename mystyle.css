@@ -8,7 +8,7 @@
 .landingpagetitle {
 	text-align: center;
 	font-family: 'Galada', cursive !important;
-	font-color: #040403;
+	font-color: #9f4a54 !important;
 }
 
 .centerimg {
@@ -21,6 +21,10 @@
 .ezmomheart {
 	padding-top: 10px;
 	padding-left: 10px;
+}
+
+.container-xxl {
+	background-color: #e78b73;
 }
 
 body {
